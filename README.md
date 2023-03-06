@@ -1,4 +1,4 @@
-# CARDIOVASCULAR-DISEASE-PREDICTIONUSING-BINARY-CLASSIFICATIONAND-GENETIC-ALGORITHM
+# CARDIOVASCULAR-DISEASE-PREDICTION-USING-BINARY-CLASSIFICATION-AND-GENETIC-ALGORITHM
 
 Cardiovascular diseases are those diseases that are related to heart .Heart 
 diseases are not short term diseases like fever or cold. They take years of time to 
